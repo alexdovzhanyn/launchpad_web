@@ -7,7 +7,7 @@ class SampleText extends React.Component {
 
 	render() {
 		return (
-			<p style={{ color: 'red' }}>
+			<p style={{ color: 'red' }} onClick={ this.props.onClick }>
 				{ this.props.children }
 			</p>
 		)
