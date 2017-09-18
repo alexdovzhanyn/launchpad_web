@@ -1,8 +1,8 @@
-== Launchpad ==
+# Launchpad
 
 Peer to peer partnerships listings. 
 
-=== Technology Stack ===
+## Technology Stack
 
 * React.js
 * Redux
@@ -10,12 +10,12 @@ Peer to peer partnerships listings.
 * Sass
 * More to be added later
 
-=== Development Requirements ===
+## Development Requirements
 
 * Node 7.10.0
 * Yarn package manager
 
-=== How to run ===
+## How to run
 
 1) For a fresh install, run `yarn install` to install all project dependencies
 2) Run `yarn start` to build the project and start the dev server
